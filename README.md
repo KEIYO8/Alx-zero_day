@@ -1,1 +1,1 @@
-new updates
+“Starting to code today, so cool”
